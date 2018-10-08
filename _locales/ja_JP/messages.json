@@ -1,0 +1,82 @@
+{
+  "returnedErrorMessage": {
+    "message": "Goo.gl がエラーメッセージを返しました: $ERRMSG$.",
+    "placeholders": {
+      "errmsg" : {
+        "content" : "$1"
+      }
+    }
+  },
+  "copiedToClipboard": {
+    "message": "$SHORTURL$ がクリップボードへコピーされました。次のアドレスを短縮しました: $LONGURL$",
+    "placeholders": {
+      "shorturl" : {
+        "content" : "$1"
+      },
+      "longurl" : {
+        "content" : "$2"
+      }
+    }
+  },
+  "errorContacting": {
+    "message": "goo.gl への接続に失敗しました。ステータスコード: $CODE$",
+    "placeholders": {
+      "code" : {
+        "content" : "$1"
+      }
+    }
+  },
+  "creationFailed": {
+    "message": "短縮URLの作成に失敗しました: $ERRMSG$",
+    "placeholders": {
+      "errmsg" : {
+        "content" : "$1"
+      }
+    }
+  },
+  "processing": {
+    "message": "Processing..."
+  },
+  "shortenedURL": {
+    "message": "Shortened URL: "
+  },
+  "btnCopy": {
+    "message": "Copy to clipboard"
+  },
+  "simplifyCopy": {
+    "message": "Copy"
+  },
+  "fullUrl": {
+    "message": "Full URL"
+  },
+  "withoutProtocol": {
+    "message": "Without 'https://'"
+  },
+  "copyUrl": {
+    "message": "Toolbar button copy shortened URL:"
+  },
+  "automatic": {
+    "message": "Auto"
+  },
+  "manual": {
+    "message": "Manual"
+  },
+  "showNotifications": {
+    "message": "Show notification when copying is completed."
+  },
+  "autoClosePopup": {
+    "message": "Close pop-up panel after copying is completed."
+  },
+  "contextMenuOptions": {
+    "message": "Shorten URL by context menu:"
+  },
+  "currentPage": {
+    "message": "Current page"
+  },
+  "hyperlink": {
+    "message": "Hyperlink"
+  },
+  "imageSource": {
+    "message": "Image source"
+  }
+}

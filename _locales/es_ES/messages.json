@@ -1,0 +1,82 @@
+{
+  "returnedErrorMessage": {
+    "message": "Error de Goo.gl: $ERRMSG$.",
+    "placeholders": {
+      "errmsg" : {
+        "content" : "$1"
+      }
+    }
+  },
+  "copiedToClipboard": {
+    "message": "$SHORTURL$ copiado - abreviado de $LONGURL$",
+    "placeholders": {
+      "shorturl" : {
+        "content" : "$1"
+      },
+      "longurl" : {
+        "content" : "$2"
+      }
+    }
+  },
+  "errorContacting": {
+    "message": "Error al contactar a goo.gl: $CODE$",
+    "placeholders": {
+      "code" : {
+        "content" : "$1"
+      }
+    }
+  },
+  "creationFailed": {
+    "message": "Error al abreviar enlace: $ERRMSG$",
+    "placeholders": {
+      "errmsg" : {
+        "content" : "$1"
+      }
+    }
+  },
+  "processing": {
+    "message": "Processing..."
+  },
+  "shortenedURL": {
+    "message": "Shortened URL: "
+  },
+  "btnCopy": {
+    "message": "Copy to clipboard"
+  },
+  "simplifyCopy": {
+    "message": "Copy"
+  },
+  "fullUrl": {
+    "message": "Full URL"
+  },
+  "withoutProtocol": {
+    "message": "Without 'https://'"
+  },
+  "copyUrl": {
+    "message": "Toolbar button copy shortened URL:"
+  },
+  "automatic": {
+    "message": "Auto"
+  },
+  "manual": {
+    "message": "Manual"
+  },
+  "showNotifications": {
+    "message": "Show notification when copying is completed."
+  },
+  "autoClosePopup": {
+    "message": "Close pop-up panel after copying is completed."
+  },
+  "contextMenuOptions": {
+    "message": "Shorten URL by context menu:"
+  },
+  "currentPage": {
+    "message": "Current page"
+  },
+  "hyperlink": {
+    "message": "Hyperlink"
+  },
+  "imageSource": {
+    "message": "Image source"
+  }
+}

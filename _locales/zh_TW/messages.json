@@ -1,0 +1,82 @@
+{
+  "returnedErrorMessage": {
+    "message": "Goo.gl 傳回錯誤訊息：$ERRMSG$.",
+    "placeholders": {
+      "errmsg" : {
+        "content" : "$1"
+      }
+    }
+  },
+  "copiedToClipboard": {
+    "message": "$SHORTURL$ 已複製到剪貼簿。縮短自：$LONGURL$",
+    "placeholders": {
+      "shorturl" : {
+        "content" : "$1"
+      },
+      "longurl" : {
+        "content" : "$2"
+      }
+    }
+  },
+  "errorContacting": {
+    "message": "與 goo.gl 聯繫錯誤。狀態碼：$CODE$",
+    "placeholders": {
+      "code" : {
+        "content" : "$1"
+      }
+    }
+  },
+  "creationFailed": {
+    "message": "縮址建立失敗：$ERRMSG$",
+    "placeholders": {
+      "errmsg" : {
+        "content" : "$1"
+      }
+    }
+  },
+  "processing": {
+    "message": "正在縮址..."
+  },
+  "shortenedURL": {
+    "message": "縮短的網址: "
+  },
+  "btnCopy": {
+    "message": "複製到剪貼簿"
+  },
+  "simplifyCopy": {
+    "message": "複製"
+  },
+  "fullUrl": {
+    "message": "完整縮址"
+  },
+  "withoutProtocol": {
+    "message": "去除 https://"
+  },
+  "copyUrl": {
+    "message": "使用工具列按紐複製縮短的網址:"
+  },
+  "automatic": {
+    "message": "自動"
+  },
+  "manual": {
+    "message": "手動"
+  },
+  "showNotifications": {
+    "message": "複製完成後顯示通知訊息."
+  },
+  "autoClosePopup": {
+    "message": "複製完成後關閉彈出面版."
+  },
+  "contextMenuOptions": {
+    "message": "使用右鍵選單縮址:"
+  },
+  "currentPage": {
+    "message": "目前頁面"
+  },
+  "hyperlink": {
+    "message": "超連結"
+  },
+  "imageSource": {
+    "message": "圖片網址"
+  }
+}
